@@ -1,3 +1,3 @@
 # Baseball
 
-# All things baseball
+ All things baseball
